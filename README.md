@@ -82,7 +82,7 @@ yarn install
 1. Clone the repo
 
 ```sh
-git clone https://github.com/vidhi-mody/Vihaan
+git clone https://github.com/vidhi-mody/EmpowHer
 ```
 
 2. Install the packages
@@ -109,6 +109,8 @@ REDIS_PORT=6379
 
 IBM_TONE_API_KEY=“YOUR IBM TONE KEY”
 IBM_TONE_API_URL=“YOUR IBM TONE URL”
+
+SPOONACULAR_API_KEY=“YOUR SPOONACULAR API KEY”
 ```
 
 4. Start the project
@@ -121,7 +123,7 @@ yarn dev
 
 ## Roadmap
 
-See the [open issues](https://github.com/vidhi-mody/Vihaan/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/vidhi-mody/EmpowHer/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
